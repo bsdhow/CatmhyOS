@@ -1,0 +1,63 @@
+CatmhyOS 专有源码使用与知识产权保护协议
+版权所有 (c) 2026 bsd.how。保留所有权利。
+
+本协议中，“权利人”统指 bsd.how 及其背后的实际控制人、合法权利继承人或授权关联实体（亦称“作者”）。
+
+除另有明确标明的公开行业标准接口定义，以及依据各自原始宽松许可协议（包括但不限于 BSD 许可证）独立保留原作者版权声明并合法纳入的第三方开源组件外，本软件（名为 CatmhyOS）及其关联的所有原创与闭源衍生源代码、算法逻辑、微架构实现、数学拓扑模型、硬件控制协议栈、固件载荷、文档及相关资料（无论是否在本仓库中公开披露，或由权利人保存在私有环境中，以下统称“本软件”），均属于权利人的专有财产，受著作权法、专利法、商业秘密法、商标法、反不正当竞争法以及国际知识产权条约（包括《伯尔尼公约》与《与贸易有关的知识产权协定》）的严格保护。
+
+1. 所有权与专有财产
+
+本软件及其所有知识产权（包括但不限于著作权、专利权、未决专利申请权、商标权、商号权及商业秘密）均排他性归属于权利人。第三方开源组件的原始版权归其各自原作者所有，但权利人对该等组件所作的一切专有修改、架构整合与衍生增强均排他性归属于权利人。接触、获取或持有本软件并不构成所有权或任何明示或默示的知识产权转让、许可或弃权。
+
+2. 严格禁止行为
+在未获得权利人事先书面明确授权的情况下，任何组织或个人严禁从事以下行为：
+(a) 复制、修改、分发、出版、展示、再许可、出售、出租或以任何形式向任何第三方披露或传播本软件的全部或部分；
+(b) 在适用法律允许的最大范围内，对本软件进行反编译、反汇编、逆向工程、反向推导系统拓扑，或利用接触本软件所获知的非公开结构、商业秘密与技术特征进行以规避著作权、功能替代或仿制为目的的“净室（Clean-room）”二次实现；
+(c) 在任何商业环境、生产环境、非授权测试环境或网络服务架构（包括但不限于 SaaS、PaaS、IaaS、分布式云存储或硬件固件集成）中部署、执行或调用本软件；
+(d) 将本软件的源代码、内部结构、数学参数或算法特征用于人工通用智能（AGI）、机器学习模型的训练、微调、验证或基准测试，或将其输入至任何自动化代码生成、提取与抓取系统；
+(e) 跨越标准系统调用或二进制接口边界（Syscall/ABI Boundary），声称或利用本软件中由权利人独立实现的外部系统兼容层、二进制转换机制或接口规范，主张本软件的专有核心受制于任何外部著佐权（Copyleft）或互惠性开源协议（包括但不限于 GPL、LGPL 或 AGPL 许可证）的衍生作品源码公开或连带许可义务。
+
+3. 专利权与商业秘密绝对保留
+本协议未授予任何明示、默示、禁止反言或以其他方式成立的专利实施许可或商业秘密使用权。权利人对其独立构想并实现的一切底层系统架构、硬件控制逻辑、存储机制与数学方法享有绝对排他性商业秘密权、专利权与申请优先权。任何未经授权实施上述技术方案的行为，均直接构成对权利人商业秘密的实质性侵害、不正当竞争，以及对已授权专利的侵权（或待批专利授权后的追溯性侵权责任）。
+
+4. 救济与法律责任
+任何违反本协议的行为均构成对权利人的实质性违约与侵权。权利人有权在适格管辖法院直接申请即时与永久性禁令、责令销毁全部侵权副本及衍生模型参数，并全额追索实际经济损失、侵权获利、法定赔偿金以及合理的调查取证与诉讼代理费用。
+
+5. 免责声明
+本软件按“现状（AS IS）”提供，不包含任何明示或默示担保。在适用法律允许的最大范围内，权利人不对因使用或无法使用本软件引起的任何直接、间接、附带或衍生损害承担法律责任。
+
+6. 可分割性与管辖法律
+若本协议的任何条款被有管辖权的法院裁定为无效、不合法或不可执行，该条款应在最低必要限度内予以修改以使其可执行，且不影响本协议其余条款的完全有效性与可执行性。本协议受权利人实际控制人主要居住地或营业地法律管辖并据其解释（排除冲突法规则的适用）。因本协议引起的任何争议，均由权利人所在地有管辖权的法院排他性管辖。
+
+================================================================================
+
+CATMHYOS PROPRIETARY SOURCE CODE AND INTELLECTUAL PROPERTY PROTECTION AGREEMENT
+Copyright (c) 2026 bsd.how. All rights reserved.
+
+In this Agreement, "the Licensor" shall refer collectively to bsd.how and its controlling principals, legal successors, or authorized affiliated entities (also referred to as "the Author").
+
+Except for expressly identified public industry-standard interface definitions and third-party open-source components lawfully incorporated and separately attributed under their respective permissive licenses (including, without limitation, BSD licenses), this software (designated as "CatmhyOS") and all associated original and proprietary derivative source code, algorithmic logic, microarchitectural implementations, mathematical topological models, hardware control protocol stacks, firmware payloads, documentation, and related materials—whether publicly disclosed herein or maintained privately by the Licensor (collectively, the "Software")—constitute the exclusive proprietary property of the Licensor, protected under copyright, patent, trademark, trade secret, and unfair competition laws, as well as international intellectual property conventions (including the Berne Convention and the TRIPS Agreement).
+
+1. OWNERSHIP AND PROPRIETARY RIGHTS
+
+The Software and all intellectual property rights therein—including, but not limited to, copyrights, patents, patent applications, trademarks, trade names, and trade secrets—remain the exclusive and sole property of the Licensor. While original copyrights in incorporated third-party permissive components remain with their respective authors, all proprietary modifications, architectural integrations, and derivative enhancements thereto made by the Licensor remain the exclusive property of the Licensor. Access to, acquisition of, or possession of the Software does not convey any title, ownership, or express or implied transfer, license, or waiver of intellectual property rights.
+
+2. STRICT PROHIBITIONS
+Without the prior express written authorization of the Licensor, any entity or individual is strictly prohibited from:
+(a) Copying, modifying, distributing, publishing, displaying, sublicensing, selling, leasing, or otherwise disclosing or disseminating the Software, in whole or in part, to any third party;
+(b) To the maximum extent permitted by applicable law, decompiling, disassembling, reverse engineering, reconstructing architectural topologies, or conducting clean-room implementations derived from or utilizing non-public structures, trade secrets, or technical characteristics learned through access to the Software for the purpose of copyright circumvention, functional substitution, or emulation;
+(c) Deploying, executing, or invoking the Software within any commercial, production, unauthorized testing, or networked service environment (including, but not limited to, SaaS, PaaS, IaaS, distributed cloud storage, or embedded firmware infrastructures);
+(d) Utilizing the source code, internal structures, mathematical parameters, or algorithmic representations of the Software to train, fine-tune, validate, or benchmark artificial intelligence or machine learning models, or ingesting the Software into any automated code generation, extraction, or scraping system;
+(e) Alleging or utilizing the Licensor's independently implemented subsystem compatibility layers, binary translation mechanisms, or interface specifications across standard system call or ABI boundaries to assert that the proprietary core of the Software is subject to derivative source-disclosure or reciprocal licensing obligations under any external copyleft or reciprocal open-source licenses (including, without limitation, GPL, LGPL, or AGPL licenses).
+
+3. ABSOLUTE RESERVATION OF PATENT AND TRADE SECRET RIGHTS
+NO PATENT OR TRADE SECRET LICENSE, EXPRESS, IMPLIED, BY ESTOPPEL, OR OTHERWISE, IS GRANTED HEREUNDER. The Licensor retains absolute and exclusive trade secret rights, patent rights, and priority over all underlying system architectures, hardware dispatch logic, storage mechanisms, and mathematical methods independently conceived and embodied in the Software. Any unauthorized practice of such technical solutions constitutes unlawful misappropriation of trade secrets, unfair competition, and infringement of issued patents (or retroactive liability upon patent issuance).
+
+4. REMEDIES AND ENFORCEMENT
+Any breach of this Agreement constitutes a material breach and infringement of the Licensor's rights. The Licensor shall be entitled to seek immediate and permanent injunctive relief, demand the destruction of all infringing materials and derived model weights, and claim full recovery of actual economic damages, disgorgement of illicit profits, statutory damages, and reasonable investigation and legal expenses in any court of competent jurisdiction.
+
+5. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THE USE OR INABILITY TO USE THE SOFTWARE.
+
+6. SEVERABILITY AND GOVERNING LAW
+If any provision of this Agreement is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, such provision shall be modified to the minimum extent necessary to make it enforceable, and the validity and enforceability of the remaining provisions shall remain in full force and effect. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which the Licensor's controlling principal resides or maintains its principal place of business, without regard to its conflict of law principles. Any dispute arising hereunder shall be subject to the exclusive jurisdiction of the competent courts located in the Licensor's jurisdiction.
