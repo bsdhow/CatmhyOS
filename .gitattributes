@@ -3,3 +3,5 @@ LICENSE linguist-detectable=false
 .gitattributes linguist-detectable=false
 
 *.zig linguist-detectable=true
+*.zig linguist-vendored=false
+*.zig linguist-documentation=false
